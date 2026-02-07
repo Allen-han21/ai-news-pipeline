@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai-news-pipeline",
+  "owner": {
+    "name": "Allen Kim"
+  },
+  "metadata": {
+    "description": "AI news collection, deep analysis, and application roadmap pipeline for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ai-news-pipeline",
+      "version": "1.0.0",
+      "description": "3-stage AI news pipeline: collect, analyze, apply. Stay updated with AI trends and turn insights into actionable roadmaps.",
+      "source": "./plugins/ai-news-pipeline",
+      "category": "productivity",
+      "author": {
+        "name": "Allen Kim"
+      },
+      "homepage": "https://github.com/Allen-han21/ai-news-pipeline"
+    }
+  ]
+}

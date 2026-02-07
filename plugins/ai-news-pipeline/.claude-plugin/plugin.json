@@ -1,0 +1,11 @@
+{
+  "name": "ai-news-pipeline",
+  "version": "1.0.0",
+  "description": "AI news collection, deep analysis, and application roadmap pipeline",
+  "author": {
+    "name": "Allen Kim"
+  },
+  "homepage": "https://github.com/Allen-han21/ai-news-pipeline",
+  "license": "MIT",
+  "keywords": ["ai-news", "tech-news", "deep-dive", "roadmap", "productivity", "ultrathink"]
+}
